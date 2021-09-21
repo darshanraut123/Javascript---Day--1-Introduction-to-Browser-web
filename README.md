@@ -32,13 +32,13 @@ They are unordered collection of related data, of key: value pairs.\
 These keys can be variables or functions and are called properties and methods, respectively, in the context of an object.\
 An object can be created with figure brackets {} with an optional list of properties. A property is a key: value pair, where a key is the property name value can be anything.\
 In JS almost everything is an object
-For eg;
-  1.Boolean when created by new key
-  2.Number on using new key
-  3.Strings on using new key. 
-  4.Date
-  5.Arrays
-  6.Objects
+For eg; \
+  1.Boolean when created by new key \
+  2.Number on using new key\
+  3.Strings on using new key. \
+  4.Date\
+  5.Arrays\
+  6.Objects\
 We can create object by.
   1. Using object literal {} 
   2. Using new Object(); 
