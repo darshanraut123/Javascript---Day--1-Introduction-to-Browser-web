@@ -24,7 +24,9 @@ HTTP2 is way to faster than HTTP1.1
 # Objects in JS
 Objects contain a combination of primitive data-types as well as reference data-types.\
 Objects can have any data type for example key should be a string but value can be anything like string ,number ,array or another object.\
-An object is a reference data type. Variables that are assigned a reference value are given a reference or a pointer to that value. That reference or pointer points to the location in memory where the object is stored\ 
+An object is a reference data type. \
+Variables that are assigned a reference value are given a reference or a pointer to that value. \
+That reference or pointer points to the location in memory where the object is stored\ 
 The variables don’t actually store the value.\
 They are unordered collection of related data, of key: value pairs.\
 These keys can be variables or functions and are called properties and methods, respectively, in the context of an object.\
