@@ -3,6 +3,7 @@
 # Diff between HTTP1.1 and HTTP2
 
 HTTP was a simple protocol.\
+HTTP1.1 is synchronous whereas HTTP2 is anysnchronous. \
 HTTP1.1 is textual, whereas HTTP2 is binary. \
 It was used earlier to transfer documents from a web server to the local computer.\
 At that time the web elements and documents were simple as just texts and basic images so transfer was easy too.\
@@ -13,12 +14,11 @@ The newly added HTML2 was able to download the various resources with a single c
 It was developed by google with initial name SPDY , they used to call iy by synonym as SPEEDY.\
 In HTML1.1 case there was one way connection ie the request sent for each requirement.\
 But in HTML2 there is two way connection where the server is always listening\
-HTTP2 is binary, instead of textual\
 HTTP2 is fully multiplexed, instead of ordered and blocking\
 HTTP2 can, therefore, use one connection for parallelism\
 HTP2 uses header compression to reduce overhead\
 HTTP2 allows servers to 'push' responses proactively into client caches\
-HTTP2 is way to faster than HTTP1.1 \
+HTTP2 is way to faster than HTTP1.1 
 
 
 # Objects in JS
